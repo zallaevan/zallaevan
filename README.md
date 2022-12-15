@@ -19,7 +19,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/mastericons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"  title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
